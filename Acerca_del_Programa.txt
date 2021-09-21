@@ -1,0 +1,5 @@
+Se trata de un programa que permite Crear una cuenta y ser registrada.
+Los registros serán guardados en un archivo de texto, y cumplirá la funcion de una base de datos ordinaria.
+Se puede Crear cuenta,Iniciar Sesion con una cuenta ya creada, hacer modificaciones en los datos de la cuenta, y eliminar una cuenta.
+
+Es un programa sencillo al que pienso terminar de agregar algunos detalles, que estaré comentando en este mismo archivo de lectura.
