@@ -2,4 +2,8 @@ Se trata de un programa que permite Crear una cuenta y ser registrada.
 Los registros serán guardados en un archivo de texto, y cumplirá la funcion de una base de datos ordinaria.
 Se puede Crear cuenta,Iniciar Sesion con una cuenta ya creada, hacer modificaciones en los datos de la cuenta, y eliminar una cuenta.
 
+En la clase "Main" creé un menu simple por consola que te permite elegir opciones por teclado ingresando numeros.
+En la clase "Archivos_de_Registro" se encuentran la creacion y conexion del archivo, el listado de registros, el metodo para modificar, y el metodo para eliminar.
+En la clase "Usuario" se definen los parametros que contendrá el registro.
+
 Es un programa sencillo al que pienso terminar de agregar algunos detalles, que estaré comentando en este mismo archivo de lectura.
